@@ -1,1 +1,1 @@
-this script prints out the current working directory
+this is a repo containing script to print the current working directory
