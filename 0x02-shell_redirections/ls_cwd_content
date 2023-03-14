@@ -1,0 +1,15 @@
+total 80
+drwxr-xr-x  14 samueloluwole  staff  448 14 Mar 15:10 .
+drwxr-xr-x   7 samueloluwole  staff  224 14 Mar 01:06 ..
+-rwxr-xr-x   1 samueloluwole  staff   38 14 Mar 01:34 0-hello_world
+-rwxr-xr-x   1 samueloluwole  staff   28 14 Mar 01:36 1-confused_smiley
+-rwxr--r--   1 samueloluwole  staff   28 14 Mar 01:48 2-hellofile
+-rwxr--r--   1 samueloluwole  staff   39 14 Mar 01:50 3-twofiles
+-rwxr--r--   1 samueloluwole  staff   39 14 Mar 01:55 4-lastlines
+-rwxr--r--   1 samueloluwole  staff   42 14 Mar 02:01 5-firstlines
+-rwxr--r--   1 samueloluwole  staff   36 14 Mar 02:07 6-third_line
+-rwxr--r--   1 samueloluwole  staff  135 14 Mar 02:33 7-file
+-rwxr--r--   1 samueloluwole  staff   36 14 Mar 15:10 8-cwd_state
+-rw-r--r--   1 samueloluwole  staff   72 14 Mar 01:28 README.md
+-rw-r--r--   1 samueloluwole  staff    0 14 Mar 02:32 \*\\'Best School\'\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 samueloluwole  staff    0 14 Mar 15:10 ls_cwd_content
