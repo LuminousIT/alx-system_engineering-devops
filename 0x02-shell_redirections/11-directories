@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -laR | grep ^d | wc -l # count the number of lines 
+# ls -laR | grep ^d | wc -l # count the number of lines 
+find . -mindepth 1 -type d | wc -l
