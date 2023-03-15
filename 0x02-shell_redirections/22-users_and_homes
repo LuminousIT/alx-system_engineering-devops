@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -k3,3
+sort -k 3
