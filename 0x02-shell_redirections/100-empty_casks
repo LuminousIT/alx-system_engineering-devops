@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type d -not -empty -o -type f -not -empty -exec basename {} \; 
+find ./ -type d -empty -o -type f -empty -exec basename {} \; 
